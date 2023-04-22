@@ -1,0 +1,1 @@
+export var valor_id_user = 0;
